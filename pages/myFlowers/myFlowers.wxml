@@ -1,0 +1,17 @@
+<!--pages/myFlowers/myFlowers.wxml-->
+<view class="box1">
+<view class="name1"><text class="text1">吉娃娃</text></view>
+<image class="image1" src="/images/jiwawa.jpg"></image>
+</view>
+<view class="box1">
+<view class="name1"><text class="text1">吉娃娃</text></view>
+<image class="image1" src="/images/jiwawa.jpg"></image>
+</view>
+<view class="box1">
+<view class="name1"><text class="text1">吉娃娃</text></view>
+<image class="image1" src="/images/jiwawa.jpg"></image>
+</view>
+<view class="box1">
+<view class="name1"><text class="text1">吉娃娃</text></view>
+<image class="image1" src="/images/jiwawa.jpg"></image>
+</view>

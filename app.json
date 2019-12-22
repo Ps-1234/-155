@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/slh/slh",
+    "pages/HSYJ/HSYJ",
+    "pages/indexTwo/indexTwo",
+    "pages/problem/problem",
+    "pages/load/load",
+    "pages/resourse/resourse",
+    "pages/person/person",
+    "pages/STH/STH",
+    "pages/BGH/BGH",
+    "pages/myFlowers/myFlowers",
+    "pages/yudie/yudie",
+    "pages/xinyuzhui/xinyuzhui",
+    "pages/note/note",
+    "pages/set/set"
+  ],
+  "window": {
+    "navigationBarTitleText": "种花·家",
+    "backgroundColor": "pink",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ccffcc",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "tabBar": {
+    "selectedColor": "#888888",
+    "list": [
+      {
+        "pagePath": "pages/indexTwo/indexTwo",
+        "text": "广场",
+        "iconPath": "/images/shouye.png",
+        "selectedIconPath": "images/shouye2.png"
+      },
+      {
+        "pagePath": "pages/resourse/resourse",
+        "text": "图谱",
+        "iconPath": "images/pagelines.png",
+        "selectedIconPath": "images/pagelines2.png"
+      },
+      {
+        "pagePath": "pages/person/person",
+        "text": "主页",
+        "iconPath": "images/user-circle.png",
+        "selectedIconPath": "images/user-circle2.png"
+      }
+    ],
+    "color": "#000000",
+    "backgroundColor": "#ccffcc",
+    "borderStyle": "black",
+    "position": "bottom"
+  }
+}

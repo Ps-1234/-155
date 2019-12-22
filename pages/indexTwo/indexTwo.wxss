@@ -1,0 +1,42 @@
+.lianjie{
+  width: 32.8%;     
+  height: 185px;     
+  display: inline-block;    
+  background-color: #d8f1ca;  
+  
+  margin-left: 0.2%;      
+}
+.method{
+  font-size:25px;
+  color:blue;
+  margin:10px;
+}
+.jieshao{
+  margin:20px;
+  font-size:40rpx;
+}
+.tp{
+   width:100%;              
+   height: 150px;         
+   margin-top:2px;      
+   border: 1px solid rgb(250, 250, 250);   
+ }
+
+.ziti{
+font-size: 12px;         
+height: 20px;               
+text-align: center;         
+line-height: 20px;        
+}
+.kuang{
+  background-color: #d8f1ca;
+  width: 100%;
+  height: 185px;
+}
+.twoPart{
+  background-color: #d8f1ca;
+  width: 100%;
+  height: 185px; 
+}
+
+

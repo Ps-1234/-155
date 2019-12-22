@@ -1,0 +1,13 @@
+.diya1{
+  margin:20px;
+  font-size:30rpx;
+}
+
+
+  .diya2{
+  margin:10px;
+}
+.content{
+  font-size:30rpx;
+margin:10px;
+}

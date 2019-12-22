@@ -1,0 +1,59 @@
+/* pages/person/person.wxss */
+page{
+background: white;
+}
+.box1{
+width: 300px;
+height: 100px;
+background: lightsalmon;
+border: 5px solid lightgray;
+margin-left: 5px;
+margin-top: 5px;
+} 
+.user-image{
+width:100px;
+height: 100px;
+}
+.user-name{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+/* 这个字的位置我是真的调不了 */
+}
+.form{
+background: lightgoldenrodyellow;
+width:300px;
+height:400px;
+margin-left: 10px;
+margin-top: 10px;
+}
+.form1{
+width: 240px;
+height:30px;
+border-bottom: 2px dashed orange;
+padding: 10px;
+padding-left:50px;
+}
+.text1{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+.form2{
+width: 240px;
+height:30px;
+border-bottom: 2px dashed orange;
+padding: 10px;
+padding-left: 50px;
+}
+.text2{
+font-size: 20px;
+}
+.form3{
+width: 240px;
+height:30px;
+border-bottom: 2px dashed orange;
+padding: 10px;
+padding-left: 50px;
+}
+.text3{
+font-size: 20px;
+}

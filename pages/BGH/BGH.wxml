@@ -1,0 +1,17 @@
+<view class="text">
+<view>看到这么萌萌的小兔子有没有心动呢？</view>
+<view>快来欣赏一下吧👇</view>
+</view>
+<view class="content">
+<image class="shu" src="/image/紫色碧光环.jpg" mode="aspectFill"></image>
+
+<image class="shu" src="/image/碧光环.jpg" mode="aspectFill"></image>
+
+</view>
+<view class="content">
+
+
+<image class="shu" src="/image/碧光环2.jpg" mode="aspectFill"></image>
+<image class="shu" src="/image/碧光环3.jpg" mode="aspectFill"></image>
+<image class="shu" src="/image/碧光环4.jpg" mode="aspectFill"></image>
+</view>

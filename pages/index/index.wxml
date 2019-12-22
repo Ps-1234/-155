@@ -1,0 +1,13 @@
+<view class="content">
+<image class="shu" src="/image/shu.jpg" mode="aspectFill"></image>
+
+</view>
+<view class="contenment">
+<image class="xiong" src="/image/小孩.jpg"></image>
+<!-- <navigator  url='/pages/index2/index2' hover-class="changestyle"  > -->
+<button  bindtap="loginBtnClick" class="loginBtn">进入主页>></button>
+</view>
+
+
+<button  bindtap="register" class="sign">注册>></button>
+<button class="problem" bindtap="Problem">忘记密码?</button>

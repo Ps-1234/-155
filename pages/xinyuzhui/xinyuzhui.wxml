@@ -1,0 +1,5 @@
+<!--miniprogram/pages/xinyuzhui/xinyuzhui.wxml-->
+<!--miniprogram/pages/xinyuzhui/xinyuzhui.wxml-->
+<view class="text1">新玉缀(学名：Sedum burrito Moran)是景天科、景天属的多年生植物，多肉植物。原产于墨西哥，又名新玉串。与玉缀近缘。</view>
+<image class="beijing" src="/images/xinyuzhuibeijing.jpg" mode="aspectFill"></image>
+<view class="text1">多年生草本植物，全株无毛，近基部多分枝。初期直立生长，逐渐垂吊。茎灰绿色，株长50厘米以上。叶呈螺旋状紧密排列，椭圆形，先端钝，鼓涨，近圆柱状，泛蓝至蓝绿色，长12 - 16毫米，宽6 – 9毫米，厚5 - 7毫米。伞状花序顶生，下垂。花梗长8-12毫米，上部微增粗。花5瓣，萼片不等，无柄，合生，三角形至卵形，渐尖至圆钝，长5-7毫米，宽6-8毫米。花瓣长7-8毫米，基部合生，卵形狭圆形，近兜状，有短尖，底色粉，上有深粉色不规则线状图案。花丝粉色，花药浅黄色。花蜜鳞片宽，顶端微凹，深粉色。 </view>

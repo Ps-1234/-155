@@ -1,0 +1,14 @@
+.tuzi{
+  width:100%;
+  height:100%;
+  position:fixed;
+  background-size:100%100%;
+  z-index:-2;
+}
+.check{
+  color:black; 
+line-height:30px;
+margin-top: 180px;
+margin-left:100px;
+margin-right:100px;
+}

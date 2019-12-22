@@ -1,0 +1,4 @@
+<!--miniprogram/pages/yudie/yudie.wxml-->
+<!--miniprogram/pages/yudie/yudie.wxml-->
+<view class="text1">玉蝶（学名：Echeveria secunda var. glauca），又称石莲花、玉碟、宝石花、莲花掌。多年生肉质草本或亚灌木植物，株高可达60厘米，直径可达20厘米。叶互生，呈莲座状着生鱼短缩茎上，倒卵匙形，淡绿色，肉质，表面被白粉。单歧聚伞花序腋生；小花钟形，先端5裂，赭红色，顶端黄色，蓇葖果。原产地墨西哥伊达尔戈州，常见的多肉植物之一。</view>
+<image class="beijing" src="/images/yudiebeijing.jpg"></image>

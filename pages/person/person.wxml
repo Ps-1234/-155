@@ -1,0 +1,10 @@
+<!--pages/person/person.wxml-->
+<view class="box1">
+<image class="user-image" src="/images/user-image.png" mode="widthfix"></image>
+<text class="user-name">用户名</text>
+</view>
+<view class="form">
+<view class="form1"><button bindtap="gotomyFlowers"><text class="text1">我的小花</text></button></view>
+<view class="form2"><button bindtap="gotonote"><text class="text2">历史记录</text></button></view>
+<view class="form3"><button bindtap="gotoset"><text class="text3">设置</text></button></view>
+</view>

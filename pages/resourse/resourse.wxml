@@ -1,0 +1,8 @@
+<!--miniprogram/pages/resourse/resourse.wxml-->
+<!--pages/resourse/resourse.wxml-->
+<view class="tu1">
+<image bindtap="gotoxinyuzhui" class="tu1" src="/images/xinyuzhui.jpg"></image>
+</view>
+<view class="tu2">
+<image bindtap="gotoyudie" class="tu1" src="/images/yudie.jpg"></image>
+</view>

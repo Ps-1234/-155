@@ -1,0 +1,33 @@
+<view class='images'>
+<swiper class='detail-imgs' indicator-dots="{{true}}" autoplay='{{true}}' interval="{{5000}}" duration="{{500}}" circular="{{true}}" bindchange='bindchange' style="height:{{imgheights[current]}}rpx;">
+<block wx:for="{{imgUrls}}" wx:key="{{imgUrls}}">
+<swiper-item >
+<image src="{{item}}" class='image-view' mode="aspectFit" bindload="imageLoad" data-src='{{item}}'></image>
+</swiper-item>
+</block>
+</swiper>
+</view>
+<view class="method">肉肉植物的养殖方法</view>
+<text class="jieshao">多肉植物通常采用透气性和吸水性较好的紫砂盆进行养殖，一般选用厚度适中的紫砂盆。在养殖过程中要注意土壤的选择，一般是砂质土辅以腐园土或者泥炭作为基质。还要注意合理的浇水，通常是少量多次，适时浇水。此外，还需满足光照的要求，一般需要放置在光照充足的地方。</text>
+<view  class="kuang">
+<navigator  url='/pages/BGH/BGH' hover-class="changestyle" class='lianjie' >
+     <image src='/image/碧光环2.jpg' class='tp'></image>
+     <view class='ziti'>碧光环</view>
+</navigator>
+
+<navigator  url='/pages/HSYJ/HSYJ' hover-class="changestyle" class='lianjie' >
+     <image src='/image/红色妖姬1.jpg' class='tp'></image>
+     <view class='ziti'>蒂亚</view>
+</navigator>
+</view>
+<view class="twoPart">
+<navigator url='/pages/slh/slh' hover-class='changestyle' class='lianjie'>
+<image src='/image/石莲花.jpg' class='tp'></image>
+<view class='ziti'>石莲花</view>
+</navigator>
+
+<navigator url='/pages/STH/STH' hover-class='changestyle' class='lianjie'>
+<image src='/image/草.jpg' class='tp'></image>
+<view class='ziti'>石头花</view>
+</navigator>
+</view>

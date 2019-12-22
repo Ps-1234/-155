@@ -1,0 +1,10 @@
+/* miniprogram/pages/resourse/resourse.wxss */
+
+/* pages/resourse/resourse.wxss */
+.tu1{
+width:100%;
+height:220px;
+}
+.tu2{
+margin-top: 6px;
+}

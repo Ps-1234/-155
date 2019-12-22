@@ -1,0 +1,5 @@
+/* miniprogram/pages/slh/slh.wxss */
+.shilian{
+  margin:10px;
+  font-size:30rpx;
+}

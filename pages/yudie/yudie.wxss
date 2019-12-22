@@ -1,0 +1,12 @@
+/* miniprogram/pages/yudie/yudie.wxss */
+/* miniprogram/pages/yudie/yudie.wxss */
+.beijing{
+z-index: -1;
+width: 100%;
+height: 100%;
+position: fixed;
+}
+.text1{
+color: white;
+text-shadow: black 1px 1px 1px;
+}
